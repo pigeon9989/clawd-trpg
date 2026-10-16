@@ -1,0 +1,9 @@
+{
+  "name": "clawd-trpg",
+  "version": "0.1.0",
+  "description": "TRPG 패널: 미미짱이 GM 을 맡는 2d6 판타지 던전. 캐릭터 시트 · 장면 · 주사위 · 퀘스트를 패널에 띄우고 캠페인을 저장해 이어 한다",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "pigeon9989"
+  }
+}
